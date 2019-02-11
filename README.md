@@ -41,9 +41,9 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Mankaran Singh** - *Initial work* - [MankaranSingh](https://github.com/MankaranSingh)
-* **Prakhar Singh** - *Initial work* - [prakharsingh1312](https://github.com/prakharsingh1312)
-* **Prakhar Singh** - *Initial work* - [uchauhan2022](https://github.com/uchauhan2022)
+* **Mankaran Singh** - *Core Developer* - [MankaranSingh](https://github.com/MankaranSingh)
+* **Prakhar Singh** - *Core Developer* - [prakharsingh1312](https://github.com/prakharsingh1312)
+* **Utkarsh Chauhan** - *Core Developer* - [uchauhan2022](https://github.com/uchauhan2022)
 
 ## Acknowledgments
 
