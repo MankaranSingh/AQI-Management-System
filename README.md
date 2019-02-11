@@ -2,11 +2,11 @@
 
 Pollution is now a major problem, this project focuses on providing AQI data and visualisations for very precise locations so as to pinpoint the actual sources of pollution instead of providing data for large chunks of areas.
 
-![alt text](https://github.com/MankaranSingh/AQI-Management-System/SS1.png)
+![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/SS1.png)
 
-![alt text](https://github.com/MankaranSingh/AQI-Management-System/SS2.png)
+![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/SS2.png)
 
-![alt text](https://github.com/MankaranSingh/AQI-Management-System/SS3.png)
+![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/SS3.png)
 
 ## Getting Started
 
