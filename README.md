@@ -48,6 +48,6 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Acknowledgments
 
 * Special thanks Dash/Plotly team for providing such a great visualisation tool
-* The Creative Computing Society (CCS) team who always inspires and motivates to push ourselves beyond limits.
+* Thanks to Creative Computing Society (CCS) team who always inspires and motivates to push ourselves beyond limits.
 * Hats-off to all those people who built the other dependencies used in this project  
 
