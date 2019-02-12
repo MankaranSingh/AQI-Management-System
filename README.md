@@ -34,9 +34,9 @@ Sensors Required:
 - DHT11 - TEMPERATURE AND HUMIDITY SENSOR
 - ESP8266 - WIFI MODULE
 
-![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/HS3.jpeg)
+![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/HS1.jpeg)
 
-![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/HS3.jpeg)
+![alt text](https://github.com/MankaranSingh/AQI-Management-System/blob/master/HS2.jpeg)
 
 ## Incase you don't have a real arduino to test 
 
