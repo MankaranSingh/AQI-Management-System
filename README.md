@@ -56,10 +56,3 @@ We use [SemVer](http://semver.org/) for versioning.
 * **Mankaran Singh** - *Core Developer* - [MankaranSingh](https://github.com/MankaranSingh)
 * **Prakhar Singh** - *Core Developer* - [prakharsingh1312](https://github.com/prakharsingh1312)
 * **Utkarsh Chauhan** - *Core Developer* - [uchauhan2022](https://github.com/uchauhan2022)
-
-## Acknowledgments
-
-* Special thanks to Dash/Plotly team for providing such a great visualisation tool
-* Thanks to Creative Computing Society (CCS) team who always inspires and motivates to push ourselves beyond limits.
-* Hats-off to all those people who built the other dependencies used in this project  
-* Thanks to MSC (Microsoft Student Chapter) for organizing this wonderful hackathon.
