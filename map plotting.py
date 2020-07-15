@@ -6,6 +6,6 @@ df = pd.read_csv('Dummy_AQI.txt', names = ['timestamp','lat','lon','state','city
 means = df[['lat','lon','AQI','area']].groupby('area').mean()
 
 gmap = gmplot.GoogleMapPlotter(22.002066, 78.065544,5)
-gmap.apikey = 'AIzaSyAJF47zRhAZx8sXuT_FUYz0D14ek4QBFxI'
+gmap.apikey = ''
 gmap.scatter(means.lat,means.lon, 'red', size=200, marker=False)
 gmap.draw("my_map.html")
